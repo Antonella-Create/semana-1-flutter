@@ -1,9 +1,11 @@
 \# Semana 1 - Desarrollo de Aplicaciones Móviles con Flutter
 
 
+
 \## Estudiante
 
 Antonella Correa
+
 
 
 \## Descripción
@@ -15,6 +17,7 @@ Se crearon dos aplicaciones Flutter utilizando las plantillas por defecto:
 \- Plantilla Empty
 
 
+
 \## Proceso realizado
 
 \- Creación de los proyectos en Flutter
@@ -24,6 +27,7 @@ Se crearon dos aplicaciones Flutter utilizando las plantillas por defecto:
 \- Instalación en dispositivo móvil
 
 \- Evidencias mediante capturas de pantalla
+
 
 
 \## APK generados
